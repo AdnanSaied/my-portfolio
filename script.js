@@ -1,4 +1,3 @@
-
 document.addEventListener("DOMContentLoaded", function () {
     const navbar = document.getElementById("mainNav");
     const navLinks = document.querySelectorAll("#navbarMenu .nav-link");
